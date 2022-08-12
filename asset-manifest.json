@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/klinsman-portfolio/static/css/main.be802f0b.css",
+    "main.js": "/klinsman-portfolio/static/js/main.e37343e1.js",
+    "static/media/klinsman-about.JPG": "/klinsman-portfolio/static/media/klinsman-about.dfcb3feb0c0ebaabc51b.JPG",
+    "static/media/klinsman-profile-2.png": "/klinsman-portfolio/static/media/klinsman-profile-2.0eafd8c69c567588a647.png",
+    "static/media/Resume-Klinsman-Lau.pdf": "/klinsman-portfolio/static/media/Resume-Klinsman-Lau.a9a62ccf4ba2434a2e40.pdf",
+    "index.html": "/klinsman-portfolio/index.html",
+    "main.be802f0b.css.map": "/klinsman-portfolio/static/css/main.be802f0b.css.map",
+    "main.e37343e1.js.map": "/klinsman-portfolio/static/js/main.e37343e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be802f0b.css",
+    "static/js/main.e37343e1.js"
+  ]
+}
